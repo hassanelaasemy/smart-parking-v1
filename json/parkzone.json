@@ -1,0 +1,367 @@
+{
+    "casablanca": [
+      {
+        "id": 1,
+        "name": "Andalous",
+        "location": "Casablanca, Bouskoura" ,
+        "Time": "45 min",
+        "distance": "10 km",
+        "lng": "-7.653611693144136",
+        "lat": "33.4693033500255",
+        "mode": "public",
+        "type": "side",
+        "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Casablanca, Bouskoura.",
+        "rating":4,
+        "price":12.10,
+        "typeprice":"/Hours",
+        "islike":true,
+        "image":[
+            {"type":"image" ,
+            "url":"https://d1gymyavdvyjgt.cloudfront.net/drive/images/uploads/headers/ws_cropper/1_0x0_790x520_0x520_bay_parking_guide.jpg",
+             "default":true}
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sidi Maarouf" ,
+        "location": "Casablanca, Sidi maarouf" ,
+        "Time": "10 min",
+        "distance": "4.3 km",
+        "lng": "-7.6379367509843235",
+        "lat": "33.541290336107316",
+        "mode": "public",
+        "type": "standard",
+        "description": "Sidi Maarouf Parking est un emplacement de stationnement situé à Casablanca, dans le quartier de Sidi Maarouf. C'est un choix pratique pour garer votre véhicule lorsque vous êtes dans la région",
+        "rating":3.4,
+        "price":10,
+        "typeprice":"/Hours",
+        "islike":false,
+        "image":[
+            {"type":"image" ,
+            "url":"https://imagenes.lainformacion.com/files/image_656_370/uploads/imagenes/2021/11/26/parking-publico.jpeg" ,
+             "default":true},
+             {"type":"image" ,
+            "url":"https://parkingsanclemente.com/wp-content/uploads/parking-219767_1280-min-1080x675.jpg",
+             "default":false}
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Ain Sbaa" ,
+        "location": "Casablanca, Ain Sbaa" ,
+        "Time": "8 min",
+        "distance": "3 km",
+        "lng": "-7.5240912647290905",
+        "lat": "33.60589408417105",
+        "mode": "public",
+        "type": "floor",
+        "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Casablanca, Ain Sbaa.",
+        "rating":4,
+        "price":12.10,
+        "typeprice":"/Hours",
+        "islike":true,
+        "image":[
+            {"type":"image" ,
+            "url":"https://img.freepik.com/photos-gratuite/parking-vide_1127-3299.jpg?w=2000" ,
+            "default":true}
+        ]},
+        {
+          "id": 4,
+          "name": "Hay El Farah",
+          "location": "Casablanca, Hay El Farah " ,
+          "Time": "26 min",
+          "distance": "5 km",
+          "lng": "-7.590083989052736",
+          "lat": "33.569656798705466",
+          "mode": "public",
+          "type": "side",
+          "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Casablanca, Hay El Farah.",
+          "rating":4,
+          "price":12.10,
+          "typeprice":"/Hours",
+          "islike":true,
+          "image":[
+              {"type":"image" ,
+              "url":"https://cdn.futura-sciences.com/sources/images/qr/parking.jpg",
+               "default":true}
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Maarif",
+          "location": "Casablanca, Maarif " ,
+          "Time": "20 min",
+          "distance": "5 km",
+          "lng": "-7.593274645107453",
+          "lat": "33.57635193955499",
+          "mode": "public",
+          "type": "side",
+          "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Casablanca, Maarif.",
+          "rating":4,
+          "price":12.10,
+          "typeprice":"/Hours",
+          "islike":true,
+          "image":[
+              {"type":"image" ,
+              "url":"https://www.virages.com/Images/Blog/Places-de-Parking.jpg",
+               "default":true}
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Ain Diab",
+          "location": "Casablanca, Ain Diab " ,
+          "Time": "30 min",
+          "distance": "15 km",
+          "lng": "-7.669511714353145",
+          "lat": "33.59174914088802",
+          "mode": "public",
+          "type": "side",
+          "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Casablanca, Ain Diab.",
+          "rating":4,
+          "price":12.10,
+          "typeprice":"/Hours",
+          "islike":true,
+          "image":[
+              {"type":"image" ,
+              "url":"https://media.istockphoto.com/id/1324853440/photo/parking-lot-in-public-areas.jpg?s=612x612&w=0&k=20&c=ihnKsdOdWFeI-mYHsbTV7GlP0NuTjWVAfvO7Dj6WkbU=",
+               "default":true}
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Ain Diab",
+          "location": "Casablanca, Ain Diab " ,
+          "Time": "30 min",
+          "distance": "15 km",
+          "lng": "-7.669511714353145",
+          "lat": "33.59174914088802",
+          "mode": "public",
+          "type": "side",
+          "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Casablanca, Ain Diab.",
+          "rating":4,
+          "price":12.10,
+          "typeprice":"/Hours",
+          "islike":true,
+          "image":[
+              {"type":"image" ,
+              "url":"https://media.istockphoto.com/id/1324853440/photo/parking-lot-in-public-areas.jpg?s=612x612&w=0&k=20&c=ihnKsdOdWFeI-mYHsbTV7GlP0NuTjWVAfvO7Dj6WkbU=",
+               "default":true}
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Anfa Place",
+          "location": "Casablanca, Anfa Place",
+          "Time": "25 min",
+          "distance": "12 km",
+          "lng": "-7.647821578979492",
+          "lat": "33.59242406270475",
+          "mode": "public",
+          "type": "underground",
+          "description": "Stationnement souterrain moderne et sécurisé à Casablanca, Anfa Place. Accès facile aux magasins et aux restaurants.",
+          "rating": 4.5,
+          "price": 15.50,
+          "typeprice": "/Hours",
+          "islike": false,
+          "image": [
+            {
+              "type": "image",
+              "url": "https://blog.way.com/wp-content/uploads/2023/04/Angle-parking-cover.jpg",
+              "default": true
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Maarif Park",
+          "location": "Casablanca, Maarif",
+          "Time": "20 min",
+          "distance": "10 km",
+          "lng": "-7.629263877868652",
+          "lat": "33.58346910317603",
+          "mode": "public",
+          "type": "multi-level",
+          "description": "Parking multi-étages moderne à Casablanca, Maarif. Idéal pour les achats et les sorties en ville.",
+          "rating": 4.2,
+          "price": 14.75,
+          "typeprice": "/Hours",
+          "islike": true,
+          "image": [
+            {
+              "type": "image",
+              "url": "https://assets-global.website-files.com/6413856d54d41b5f298d5953/647ee73e8a11b0e8409f17c8_automobiles-stationnement-parking-souterrain.jpg",
+              "default": true
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Habous Park",
+          "location": "Casablanca, Habous",
+          "Time": "18 min",
+          "distance": "9 km",
+          "lng": "-7.612285614013672",
+          "lat": "33.58782854897767",
+          "mode": "public",
+          "type": "outdoor",
+          "description": "Stationnement en plein air près de la médina de Casablanca, Habous. Pratique pour explorer la médina historique.",
+          "rating": 4.7,
+          "price": 11.90,
+          "typeprice": "/Hours",
+          "islike": true,
+          "image": [
+            {
+              "type": "image",
+              "url": "https://www.lsa-conso.fr/mediatheque/6/0/5/000273506_896x598_c.png",
+              "default": true
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Casa Port Park",
+          "location": "Casablanca, Casa Port",
+          "Time": "22 min",
+          "distance": "11 km",
+          "lng": "-7.615466117858887",
+          "lat": "33.60858807736568",
+          "mode": "public",
+          "type": "covered",
+          "description": "Parking couvert près de la gare Casa Port à Casablanca. Idéal pour les voyageurs en train.",
+          "rating": 4.4,
+          "price": 13.25,
+          "typeprice": "/Hours",
+          "islike": false,
+          "image": [
+            {
+              "type": "image",
+              "url":"https://www.divia.fr/fileadmin/Client/Bandeaux_images/Headers_page/Illust-DiviaPark-ouvrage2.jpg",
+              "default": true
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Anfa Airport Parking",
+          "location": "Casablanca, Near Anfa Airport",
+          "Time": "15 min",
+          "distance": "7 km",
+          "lng": "-7.684776306152344",
+          "lat": "33.5556991409351",
+          "mode": "public",
+          "type": "outdoor",
+          "description": "Parking en plein air près de l'aéroport Anfa à Casablanca. Idéal pour les voyageurs en avion.",
+          "rating": 4.3,
+          "price": 12.50,
+          "typeprice": "/Hours",
+          "islike": false,
+          "image": [
+            {
+              "type": "image",
+              "url": "https://cdn-s-www.bienpublic.com/images/2162664F-5AD0-4191-955B-D6DFAE248D88/NW_raw/photo-i-g-1536777700.jpg",
+              "default": true
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Maarif Twins Park",
+          "location": "Casablanca, Maarif Twins",
+          "Time": "19 min",
+          "distance": "8 km",
+          "lng": "-7.634305953979492",
+          "lat": "33.57818909143876",
+          "mode": "public",
+          "type": "multi-level",
+          "description": "Parking multi-étages moderne à Casablanca, Maarif Twins. Idéal pour le shopping et les loisirs.",
+          "rating": 4.6,
+          "price": 14.00,
+          "typeprice": "/Hours",
+          "islike": true,
+          "image": [
+            {
+              "type": "image",
+              "url": "https://www.cgpark.ma/wp-content/uploads/2019/02/007-2-2.jpg",
+              "default": true
+            }
+          ]
+        }
+        
+
+        
+        
+        
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    "rabat": [
+        {
+            "id": 1,
+            "name": "Agdal Parking",
+            "location": "Rabat, Agdal" ,
+            "Time": "40 min",
+            "distance": "35 km",
+            "lng": "-6.853828493427206",
+            "lat": "34.001055864232114",
+            "mode": "public",
+            "type": "floor",
+            "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Rabat, Agdal.",
+            "rating":4.5,
+            "price":10,
+            "typeprice":"/Hours",
+            "islike":true,
+            "image":[
+                {"type":"image" ,
+                "url":"../assets/images/parking4.jpg ",
+                 "default":true}
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Souissi Parking",
+            "location": "Rabat, Souissi" ,
+            "Time": "10 min",
+            "distance": "5 km",
+            "lng": "-6.84070580554022",
+            "lat": "33.979732769857726",
+            "mode": "public",
+            "type": "floor",
+            "description": "Cet emplacement de stationnement offre un endroit pratique et accessible pour votre véhicule à Rabat, Souissi.",
+            "rating":4.9,
+            "price":12,
+            "typeprice":"/Hours",
+            "islike":true,
+            "image":[
+                {"type":"image" ,
+                "url":"../assets/images/parking5.jpg",
+                 "default":true}
+            ]
+          }
+
+      ]
+  }
+  

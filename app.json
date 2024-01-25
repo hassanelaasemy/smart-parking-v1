@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "parkingv0.1",
+    "slug": "Parking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icons/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA1eycyDep7QqhHxViT2uf2skwMny7EhW0"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hassanelaasemy.Parking",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/icons/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9294f9e6-67e3-4a1b-969b-98770877069c"
+      }
+    }
+  }
+}

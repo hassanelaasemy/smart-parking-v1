@@ -1,0 +1,73 @@
+{
+    "translation":{
+        "Trouvez Votre Parking Sécurisé":"Find Your Secure Parking",
+        "Partout Au Maroc":"Anywhere in Morocco",
+        "Commencer":"Get Started",
+        "Connectez-vous":"Login",
+        "votre adresse e-mail":"Your email address",
+        "votre mot de passe":"Your password",
+        "Mot de passe oublié?":"Forgotten password?",
+        "se connecter":"Log in",
+        "S'inscrire":" Sign Up ",
+        "Créez votre compte":"Create your account",
+        "Nom":"First name",
+        "Prénom":"Last name",
+        "Email":"Email",
+        "Mot de passe":"password",
+        "Vous avez déjà un compte? Connectez-vous":"Already have an account? Login",
+        "Trouver un parking":"Find a Parking",
+        "Accueil":"Home",
+        "Cherche ici...":"Search here...",
+        "Paramètres":"Settings",
+        "Mon abonnement":"My Subscription",
+        "histoire":"history",
+        "Se déconnecter":"Log out",
+        "Termes et Conditions":"Terms And Conditions ",
+        "Contact":"Contact",
+        "Èvaluer l'application":"Rate this app",
+        "Actions":"Actions",
+        "Contactez-nous":"Contact us",
+        "Signaler un problème":"Report a problem",
+        "Langue":"Language",
+        "Histoire":"User History",
+        "Recherche":"Research",
+        "Informations utilisateur":"User info",
+        "Configuration":"Configuration",
+        "App":"App",
+        "Choisissez une langue":"Choose a language",
+        "Annuler":"Cancel",
+        "À propos du Parking":"About this Parking",
+        "Reserve":"Book Now",
+        "PAR HOUR":"PER HOUR",
+
+
+        "Editer le profil": "Edit profile",
+        "Change profile photo": "Change profile photo",
+        "Numéro de téléphone": "Phone number",
+        "Confidentialité": "Privacy",
+        "votre prenom": "Your last name",
+        "votre email": "Your email",
+        "votre téléphone": "Your phone",
+        "votre nom": "Your first name",
+
+
+
+
+
+        "Votre mot de passe doit contenir au moins 6 caractères ainsi qu’une combinaison de chiffres, de lettres et de caractères spéciaux ( !$@%).":
+        "Your password must be at least 6 characters and should include a combination of numbers, letters and special characters (!$@%).",
+        "Mot de passe et sécurité":"Password and Security",
+        "Changer le mot de passe": "Change password",
+        "Mot de passe actuel": "Current password",
+        "Nouveau mot de passe": "New password",
+        "Retapez le nouveau mot de passe": "Retype the new password"
+
+
+
+
+        
+        
+
+        
+    }
+}
